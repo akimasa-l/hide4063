@@ -420,7 +420,7 @@ function create_textarea(message: string, hashtags: string[]) {
 }
 function create_tweet(textarea: string) {
   if (textarea) {
-    return `https://twitter.com/intent/tweet?text=${encodeURIComponent(textarea)}&url=https://hide4063.web.app/`;
+    return `https://twitter.com/intent/tweet?text=${encodeURIComponent(textarea)}&url=https://hide-4063.web.app/`;
   } else {
     return "aaaaa";
   }
