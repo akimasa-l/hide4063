@@ -39,5 +39,6 @@ jobs:
 
       - name: Install dependencies 👨🏻‍💻
         run: npm i --prefer-offline --no-audit
-
-
+      
+      - name: Build and generate 💩
+        run: npm run build && npm run generate
