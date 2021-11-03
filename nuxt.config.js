@@ -21,7 +21,7 @@ export default {
       { property: "og:image", content: "https://hide-4063.web.app/morokoshi.png" },
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/morokoshi.png' }
+      { rel: 'icon', type: 'image/png', href: '/morokoshi.png' }
     ]
   },
 
