@@ -12,7 +12,13 @@ export default {
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: '' },
-      { name: 'format-detection', content: 'telephone=no' }
+      { name: 'format-detection', content: 'telephone=no' },
+      { name: "twitter:card", content: "summary" },
+      { name: "twitter:site", content: "@Akimasa_L" },
+      { property: "og:url", content: "https://hide-4063.web.app" },
+      { property: "og:title", content: "hide4063ジェネレーター" },
+      { property: "og:description", content: "みんな大好きhide4063が構文ジェネレーターになって帰ってきた！！" },
+      { property: "og:image", content: "https://hide-4063.web.app/morokoshi.png" },
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/morokoshi.png' }
