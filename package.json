@@ -21,7 +21,7 @@
     "nuxt-clipboard2": "^0.2.1",
     "nuxt-fontawesome": "^0.4.0",
     "nuxt-webfontloader": "^1.1.0",
-    "sanitize.css": "^12.0.1",
+    "sanitize.css": "^13.0.0",
     "scss": "^0.2.4",
     "vue-typed-js": "^0.1.2"
   },
