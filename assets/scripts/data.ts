@@ -422,7 +422,7 @@ function create_tweet(textarea: string) {
   if (textarea) {
     return `https://twitter.com/intent/tweet?text=${encodeURIComponent(textarea)}&url=https://hide-4063.web.app/`;
   } else {
-    return "aaaaa";
+    return "https://twitter.com/akimasa_l";
   }
 }
 export {
